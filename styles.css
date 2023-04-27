@@ -1,0 +1,33 @@
+<style>
+    #menu, #menu li {
+        margin: 0;
+        padding: 0;
+    }
+    #menu {
+        max-width: 550px; 
+        margin: 0 auto; 
+        text-align: center;
+        background: #D8BFD8;
+    }
+    #menu li{
+        display:inline-block;
+        text-align: center;
+    }
+    #menu a {
+        display: block;
+        padding: 5px 15px;
+        color: #fff;
+        font-size:150%;
+        text-decoration: none;
+    }
+    #menu a:hover {
+        background: #E6E6FA;
+    }
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: #D8BFD8;
+}
+
+</style>
